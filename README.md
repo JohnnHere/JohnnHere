@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JohnnHere, I live in Brazil, São Paulo.
-- 👀 I’m interested in Frontend technologies 
+- 👀 I’m interested in Java/Javascript, Node.js and React.js 
 - 🌱 I’m currently learning React.Js, Node.Js and French
 - 📫 How to reach me:
 - Linkedin: https://www.linkedin.com/in/jo%C3%A3o-orlando-78b99b231/
