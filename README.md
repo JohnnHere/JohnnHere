@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JohnnHere, I live in Brazil, São Paulo.
+- 👋 Hi, I’m João Orlando Ferreira Junior and I live in Brazil, São Paulo.
 
 - 👀 I’m interested in Java, Javascript, Typescript, Node.js and React.js.
 
