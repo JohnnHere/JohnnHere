@@ -1,8 +1,8 @@
-## Olá, meu nome é João Orlando Ferreira Júnior. 
+## Olá, meu nome é João Orlando Ferreira Junior. 
 
-## Sou um desenvolvedor web júnior fullstack, com maior afeição ao backend 😀
+### Sou um desenvolvedor web júnior fullstack, com maior afeição ao backend 😀
 
-## Graduado em Ciências Sociais, fluente em inglês e estudante de Análise e Desenvolvimento de Sistemas.
+### Graduado em Ciências Sociais, fluente em inglês e estudante de Análise e Desenvolvimento de Sistemas.
 
 ### Para contato e maiores informações, contate-me através dos links abaixo.
 
