@@ -1,4 +1,6 @@
-## Olá, meu nome é João Orlando Ferreira Júnior. Sou um desenvolvedor web júnior fullstack, com maior afeição ao backend 😀
+## Olá, meu nome é João Orlando Ferreira Júnior. 
+
+## Sou um desenvolvedor web júnior fullstack, com maior afeição ao backend 😀
 
 ##
 ##
