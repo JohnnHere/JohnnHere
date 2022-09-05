@@ -1,4 +1,4 @@
-## Olá, eu sou Vitor Martins, Desenvolvedor Web Full Stack | React!
+## Olá, meu nome é João Orlando Ferreira Júnior. Sou um desenvolvedor web júnior fullstack, com maior afeição ao backend 😀
 
 ##
 ##
