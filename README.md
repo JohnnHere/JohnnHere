@@ -4,7 +4,7 @@
 
 ## Graduado em Ciências Sociais, fluente em inglês e estudante de Análise e Desenvolvimento de Sistemas.
 
-## Para contato e maiores informações, contate-me através dos links abaixo.
+### Para contato e maiores informações, contate-me através dos links abaixo.
 
 <div align="center">
   <a href="https://github.com/JohnnHere">
