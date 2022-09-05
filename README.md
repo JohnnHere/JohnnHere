@@ -1,8 +1,21 @@
-- 👋 Hi, I’m João Orlando Ferreira Junior and I live in Brazil, São Paulo.
+## Olá, eu sou Vitor Martins, Desenvolvedor Web Full Stack | React!
 
-- 👀 I’m interested in Java, Javascript, Typescript, Node.js and React.js.
+##
+##
 
-- 📫 How to reach me:
-- Linkedin: https://www.linkedin.com/in/joao-orlando-ferreira-junior/
-- Phone Number: +5511958031532
-- E-mail: joaoorlandojr7@gmail.com
+<div align="center">
+  <a href="https://github.com/JohnnHere">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitormartinsxd&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitormartinsxd&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+  ##
+  ##
+  
+<div> 
+  <a href="https://www.linkedin.com/in/joao-orlando-ferreira-junior/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href = "mailto:joaoorlandojr7@gmail.com@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ </div> 
+  
+  
+  
