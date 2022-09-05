@@ -3,7 +3,6 @@
 ## Sou um desenvolvedor web júnior fullstack, com maior afeição ao backend 😀
 
 ##
-##
 
 <div align="center">
   <a href="https://github.com/JohnnHere">
@@ -11,7 +10,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnnHere&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-  ##
   ##
   
 <div> 
