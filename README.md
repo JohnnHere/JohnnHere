@@ -1,6 +1,6 @@
 ## Olá, eu sou o João Orlando, desenvolvedor backend. 
 
-### Graduado em ciências sociais, fluente em inglês e estudante de análise e desenvolvimento de sistemas. Contate-me para mais detalhes nos links do gmail e linkedin abaixo.
+### Graduado em ciências sociais, fluente em inglês, estudante de análise e desenvolvimento de sistemas e desenvolvedor de software backend Java na OneBox. Contate-me para mais detalhes nos links do gmail e linkedin abaixo.
 
 <div align="center">
   <a href="https://github.com/JohnnHere">
