@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-Example script demonstrating how to use the background blur tool.
-This creates a sample test to verify the installation is correct.
+Installation verification script for the background blur tool.
+Checks that all required dependencies are properly installed.
 """
 
 import os

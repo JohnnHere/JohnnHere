@@ -7,7 +7,6 @@ Uses MediaPipe for person segmentation and OpenCV for image processing.
 import cv2
 import numpy as np
 import mediapipe as mp
-from PIL import Image
 import sys
 
 
